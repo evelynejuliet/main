@@ -136,7 +136,7 @@ Examples:
 
 * `glist remDefault r/3`
 
-Default number of days is set to 3 days if not yet specified. +
+Default number of days is set to 3 days if not specified yet. +
 This command cannot be undone/redone.
 
 //end::reminderdefaultcommand[]
